@@ -1,0 +1,34 @@
+sorting 
+1. non comparision based
+    simple bucket sort - O(n+m)
+    radix sort L * max (n,10)
+2. comparision base algonthim 
+    a. sorting by ranking
+    b. sorting by exchanging 
+        bubble sort 
+        quick sort 
+    c. sorting by selection
+         selection sort 
+         heap sort 
+    d. sorting by insertion
+        insertting sort 
+        binary insertion sort 
+        using height balanced binary search tree, avl red balck 
+    e. soring by merging 
+        merge sort 
+    f. what is the lowerbound for sorting  n log n
+    
+
+
+i = 0; j = n;
+do{
+    while(A[i]< A[0]) i++;
+    while(A[i] > A[0]) j--;
+    swap(A[i], A[j])
+}until (i < j)
+swap(A[0],A[j])
+
+partition sort
+quick sort
+
+    

@@ -1,0 +1,15 @@
+lower bound on searching
+O(log2n) comparisions
+height of tree : ceil(log2(n+1))
+optimal : O(log2n)
+upper bound of binary search : O(log2n)
+
+
+
+Essential element of a good hash function
+fast to compute 
+spread 
+size of the table should be optimal 
+
+
+tries 

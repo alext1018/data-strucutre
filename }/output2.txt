@@ -1,0 +1,33 @@
+Number of transactions per block: 5
+Total number of transactions: 12
+Adding block #1
+Inserting transaction to block #1
+Inserting transaction to block #1
+Inserting transaction to block #1
+Inserting transaction to block #1
+Inserting transaction to block #1
+Adding block #2
+Inserting transaction to block #2
+Inserting transaction to block #2
+Inserting transaction to block #2
+Inserting transaction to block #2
+Inserting transaction to block #2
+Adding block #3
+Inserting transaction to block #3
+Inserting transaction to block #3
+Current number of blocks: 3
+Block Number: 1 -- Number of Transaction: 5
+10001 111 222 50 0042:01012021
+10002 115 111 80 0142:01012021
+10003 114 111 20 0245:01022021
+10004 222 111 10 0143:01022021
+10005 222 113 10 0144:01022021
+Block Number: 2 -- Number of Transaction: 5
+10006 212 115 70 0244:01022021
+10007 111 222 40 0245:01022021
+10008 114 115 70 0334:01022021
+10009 212 114 70 0445:01032021
+10010 212 115 70 0555:01032021
+Block Number: 3 -- Number of Transaction: 2
+10011 111 222 50 0142:01032021
+10012 113 111 80 0242:01042021

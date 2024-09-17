@@ -1,0 +1,14 @@
+binary tree
+binary tree store number elemnent that can be compare
+
+binary search tree 
+template <class DT>
+class  BST: public Binary Tree < DT >{
+    
+}
+void BST<DT> :: insert(DT& x){
+    if(*_info == null)
+
+}
+
+
